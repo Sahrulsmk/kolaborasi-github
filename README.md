@@ -1,0 +1,2 @@
+membuat project python
+- andirifqifajar
